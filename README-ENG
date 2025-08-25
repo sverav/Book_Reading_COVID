@@ -1,0 +1,25 @@
+**🎯General Goal**
+
+To develop a personalized recommendation system for each user.
+
+**🧩Methodology**
+
+ - Data Exploration: Reviewing the structure of the tables (books, authors, publishers, ratings, reviews) and their relationships through an ER diagram.
+ - SQL Queries: Executing specific SQL queries for each task.
+
+**☘️Expected Results**
+
+Quantity of modern books in the system.
+ - A list of books with two key metrics: review count and average rating.
+ - Publisher that has released the highest number of books with more than 50 pages.
+ - Author with the highest average rating for books with at least 50 ratings.
+ - Average number of text reviews written by the most active critics (users with >50 ratings).
+
+**📑Obtained Results**
+
+ - Quantity of modern books and their respective titles.
+ - Review count and average rating for each title.
+ - Leading publisher in terms of publishing books with more than 50 pages.
+ - Top-Rated Author.
+ - Active User Engagement: Users who rated more than 50 books write an average of 5 text reviews each.
+
